@@ -1,3 +1,3 @@
 # goit-js-hw-01
 
-This is my first JS homework.
+This is my second JS homework.
